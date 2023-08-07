@@ -1,0 +1,45 @@
+{
+  "created": 1691264606.9263065,
+  "duration": 2.2143046855926514,
+  "exitcode": 2,
+  "root": "/home/HGCAL_dev/SEU_test_Aug52023/econd-sw/test_radiation",
+  "environment": {
+    "Python": "3.6.8",
+    "Platform": "Linux-4.19.0-xilinx-v2019.2-aarch64-with-centos-7.9.2009-AltArch",
+    "Packages": {
+      "pytest": "7.0.1",
+      "py": "1.11.0",
+      "pluggy": "1.0.0"
+    },
+    "Plugins": {
+      "metadata": "1.11.0",
+      "anyio": "3.3.1",
+      "click": "1.1.0",
+      "order": "1.1.0",
+      "json-report": "1.5.0"
+    }
+  },
+  "summary": {
+    "total": 0,
+    "collected": 0
+  },
+  "collectors": [
+    {
+      "nodeid": "",
+      "outcome": "passed",
+      "result": [
+        {
+          "nodeid": "test_proton_seu.py",
+          "type": "Module"
+        }
+      ]
+    },
+    {
+      "nodeid": "test_proton_seu.py",
+      "outcome": "failed",
+      "result": [],
+      "longrepr": "../../../.local/lib/python3.6/site-packages/_pytest/python.py:599: in _importtestmodule\n    mod = import_path(self.path, mode=importmode, root=self.config.rootpath)\n../../../.local/lib/python3.6/site-packages/_pytest/pathlib.py:533: in import_path\n    importlib.import_module(module_name)\n/usr/lib64/python3.6/importlib/__init__.py:126: in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n<frozen importlib._bootstrap>:994: in _gcd_import\n    ???\n<frozen importlib._bootstrap>:971: in _find_and_load\n    ???\n<frozen importlib._bootstrap>:955: in _find_and_load_unlocked\n    ???\n<frozen importlib._bootstrap>:665: in _load_unlocked\n    ???\n../../../.local/lib/python3.6/site-packages/_pytest/assertion/rewrite.py:162: in exec_module\n    source_stat, co = _rewrite_test(fn, self.config)\n../../../.local/lib/python3.6/site-packages/_pytest/assertion/rewrite.py:364: in _rewrite_test\n    tree = ast.parse(source, filename=strfn)\n/usr/lib64/python3.6/ast.py:35: in parse\n    return compile(source, filename, mode, PyCF_ONLY_AST)\nE     File \"/home/HGCAL_dev/SEU_test_Aug52023/econd-sw/test_radiation/test_proton_seu.py\", line 43\nE       ZS_config = {\nE                 ^\nE   SyntaxError: invalid syntax"
+    }
+  ],
+  "tests": []
+}
