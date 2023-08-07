@@ -4,7 +4,7 @@ Logs from radiation tests of ECON-D-P1 at Northwestern Medicine Proton Therapy C
 
 ## Run Information
 
-| Run   | Time     |Current [nA]	| Calib [p/cm2/MU] |Time [s] | MU | Energy [MeV] | Flux [1e9/cm2/s] |Fluence [1e11/cm2]	| Tot Fluence [1e12/cm2] | Notes |
+| Run   | Time     |Current [nA]	| Calib [p/cm2/MU] |Time [s] | MU | Energy [MeV] | Flux [1/cm2/s] |Fluence [1/cm2]	| Tot Fluence [1/cm2] | Notes |
 | ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1	| 10:00 am | 2	 | 1.70E+07 | 52  | 779	   | 217 | 2.55E+08 | 1.32E+10 | 1.32E+10 |  |
 | 2	| 10:17 am | 5	 | 1.70E+07 | 100 | 4413   | 217 | 7.50E+08 | 7.50E+10 | 8.83E+10 |  |
