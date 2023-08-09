@@ -25,3 +25,10 @@ Logs from radiation tests of ECON-D-P1 at Northwestern Medicine Proton Therapy C
 | 17	|  2:59 pm | 100 | 1.90E+07 | 58  | 50150  | 217 | 1.64E+10 | 9.53E+11 | 4.89E+13 | all 0s and 1s |
 | 18	|  3:23 pm | 100 | 1.90E+07 | 59  | 50767  | 217 | 1.63E+10 | 9.65E+11 | 4.99E+13 | CLKA turned off |
 
+## Setup information
+
+Photos of the setup can be found [here](https://photos.app.goo.gl/F5yrbbC9boyt8ciVA).
+
+Two chips were irradiated:
+ - Chip 4, connected to hexacontroller 48, on the side of g-10 card closest to the beam aperture
+ - Chip 1, connected to hexacontroller 44, on the side of the g-10 card further from the bream aperture
