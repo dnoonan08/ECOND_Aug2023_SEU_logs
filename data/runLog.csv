@@ -1,0 +1,19 @@
+Run,Time,Current [nA],Calib [p/cm2/MU],Time [s],MU,Energy [MeV],Flux [1/cm2/s],Fluence [1/cm2],Tot Fluence [1/cm2],Notes,Hexa44Log,Hexa48Log
+1,10:00 am,2,1.70E+07,52,779,217,2.55E+08,1.32E+10,1.32E+10,,Run_01_testReport_hexa44_2023-08-05_10-02-27.json,Run_01_testReport_hexa48_2023-08-05_10-02-27.json
+2,10:17 am,5,1.70E+07,100,4413,217,7.50E+08,7.50E+10,8.83E+10,,Run_02_testReport_hexa44_2023-08-05_10-19-40.json,Run_02_testReport_hexa48_2023-08-05_10-19-40.json
+3,10:30 am,10,1.70E+07,159,15674,217,1.68E+09,2.66E+11,3.55E+11,,Run_03_testReport_hexa44_2023-08-05_10-33-29.json,Run_03_testReport_hexa48_2023-08-05_10-33-30.json
+4,10:45 am,25,1.74E+07,158,40000,217,4.41E+09,6.96E+11,1.05E+12,,Run_04_testReport_hexa44_2023-08-05_10-48-46.json,Run_04_testReport_hexa48_2023-08-05_10-48-45.json
+5,10:51 am,50,1.79E+07,117,56200,217,8.60E+09,1.01E+12,2.06E+12,hex48 error abort (i2c issue),Run_05_testReport_hexa44_2023-08-05_10-54-05.json,Run_05a_testReport_hexa48_2023-08-05_10-53-20.json
+6,11:25 am,100,1.90E+07,126,105814,217,1.60E+10,2.01E+12,4.07E+12,hex44 RO - no JSON,Run_06_testReport_hexa44_RECONSTRUCTED.json,Run_06_testReport_hexa48_2023-08-05_11-28-29.json
+7,12:04 pm,25,1.74E+07,30,7891,217,4.58E+09,1.37E+11,4.20E+12,,Run_07_testReport_hexa44_2023-08-05_12-05-46.json,Run_07_testReport_hexa48_2023-08-05_12-05-47.json
+8,12:11 pm,100,1.90E+07,56,49987,217,1.70E+10,9.50E+11,5.15E+12,,Run_08_testReport_hexa44_2023-08-05_12-12-35.json,Run_08_testReport_hexa48_2023-08-05_12-12-41.json
+9,12:19 pm,100,1.90E+07,180,150933,217,1.59E+10,2.87E+12,8.02E+12,beam abort hex44 RO - JSON saved,Run_09_testReport_hexa44_2023-08-05_12-23-21.json,Run_09_testReport_hexa48_2023-08-05_12-23-28.json
+10,1:16 pm,100,1.90E+07,60,50520,217,1.60E+10,9.60E+11,8.98E+12,,Run_10_testReport_hexa44_2023-08-05_13-17-46.json,Run_10_testReport_hexa48_2023-08-05_13-17-52.json
+11,1:20 pm,100,1.90E+07,609,506749,217,1.58E+10,9.63E+12,1.86E+13,,Run_11_testReport_hexa44_2023-08-05_13-31-09.json,Run_11_testReport_hexa48_2023-08-05_13-31-15.json
+12,1:39 pm,100,1.90E+07,635,550490,217,1.65E+10,1.05E+13,2.91E+13,,Run_12_testReport_hexa44_2023-08-05_13-50-22.json,Run_12_testReport_hexa48_2023-08-05_13-50-28.json
+13,1:57 pm,100,1.90E+07,194,166333,217,1.63E+10,3.16E+12,3.22E+13,beam abort,Run_13_testReport_hexa44_2023-08-05_14-00-38.json,Run_13_testReport_hexa48_2023-08-05_14-00-45.json
+14,2:00 pm,100,1.90E+07,543,470286,217,1.65E+10,8.94E+12,4.12E+13,,Run_14_testReport_hexa44_2023-08-05_14-18-39.json,Run_14_testReport_hexa48_2023-08-05_14-18-45.json
+15,2:25 pm,100,1.90E+07,354,305957,217,1.64E+10,5.81E+12,4.70E+13,,Run_15_testReport_hexa44_2023-08-05_14-32-01.json,Run_15_testReport_hexa48_2023-08-05_14-32-10.json
+16,2:53 pm,100,1.90E+07,59,50820,217,1.64E+10,9.66E+11,4.79E+13,all 1s and 0s,Run_16_testReport_hexa44_2023-08-05_14-55-23.json,Run_16_testReport_hexa48_2023-08-05_14-55-29.json
+17,2:59 pm,100,1.90E+07,58,50150,217,1.64E+10,9.53E+11,4.89E+13,all 0s and 1s,Run_17_testReport_hexa44_2023-08-05_15-01-14.json,Run_17_testReport_hexa48_2023-08-05_15-01-21.json
+18,3:23 pm,100,1.90E+07,59,50767,217,1.63E+10,9.65E+11,4.99E+13,CLKA turned off,Run_18_testReport_hexa44_2023-08-05_15-25-02.json,Run_18_testReport_hexa48_2023-08-05_15-25-14.json
